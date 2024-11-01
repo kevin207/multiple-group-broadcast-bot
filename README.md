@@ -29,6 +29,7 @@
 
 ## EXTRA STEP TO RUN THE BOT ON ACTUAL SERVER:
 - Clone the repository you create before to the server
+- Build the code for production -> npm run build
 - Install pm2 packages -> npm i pm2
 - Run the pm2 instance using -> npm start ecosystem.config.ejs
 - Done, bot running on the server and can be accessed anytime
