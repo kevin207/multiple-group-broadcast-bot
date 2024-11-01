@@ -2,7 +2,7 @@
 
 ## REQUIREMENTS
 - Code editor (VsCode, etc)
-- Database (PostgreSQL, etc
+- Database (PostgreSQL, etc)
 - ORM to interact with database (Prisma, etc)
 - Node.js installed on device (We're gonna use javascript/typescript)
 
